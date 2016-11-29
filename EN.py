@@ -100,3 +100,5 @@ N["$Profiles"] = "Profiles"
 N["$Inbox"] = "Inbox"
 N["$My friends"] = "My friends"
 N["$Blacklist"] = "Blacklist"
+
+N["$Report"] = "Report"

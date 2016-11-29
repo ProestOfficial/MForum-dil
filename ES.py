@@ -81,9 +81,9 @@ N["$Source"] = "Fuente"
 N["$Edit"] = "Editar"
 
 #Micepix
-N["$Link to this page"] = "Enlazar a esta página:"
-N["$Link to image"] = "Enlazar a imagen:"
-N["$Embed in forum message"] = "Agregar a mensaje del foro :"
+N["$Link to this page"] = "Enlazar a esta página"
+N["$Link to image"] = "Enlazar a imagen"
+N["$Embed in forum message"] = "Agregar a mensaje del foro "
 N["$Image"] = "Imagen"
 N["$File"] = "Archivo"
 N["$Link"] = "Enlace"
