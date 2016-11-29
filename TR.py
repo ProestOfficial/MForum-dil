@@ -65,16 +65,15 @@ N["$UName"] = "Kullanıcı adı"
 N["$Password"] = "Şifre"
 N["$New_thread"] = "Yeni konu"
 N["$Upload_Avatar"] = "Avatar yükle"
-N["$Map_Submission"] = "Harita Yollama"
 N["$Title"] = "Başlık"
-N["$New_topic"] = "Yeni Konu"
+N["$New_topic"] = "Yeni konu"
 N["$Invalid_param"] = "Bir ya da daha fazla geçersiz parametre istendi."
 N["$Manage"] = "Yönet"
 N["$Close"] = "Kapat
 N["$Moderate"] = "Müdahele et"
 N["$Cancel"] = "İptal"
 N["$Reason"] = "Sebep"
-N["$New messsage"] = "Yeni Mesaj"
+N["$New messsage"] = "Yeni mesaj"
 
 #Micepix
 N["$Link to this page"] = "Sayfa bağlantısı"
