@@ -74,6 +74,7 @@ N["$Moderate"] = "Müdahele et"
 N["$Cancel"] = "İptal"
 N["$Reason"] = "Sebep"
 N["$New message"] = "Yeni mesaj"
+N["$New topic"] = "Yeni konu"
 
 #Micepix
 N["$Link to this page"] = "Sayfa bağlantısı"
