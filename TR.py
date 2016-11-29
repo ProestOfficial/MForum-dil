@@ -90,3 +90,5 @@ N["$Profiles"] = "Profiller"
 N["$Inbox"] = "Gelen kutusu"
 N["$My friends"] = "Arkadaşlarım"
 N["$Blacklist"] = "Engellenenler"
+
+N["$Report"] = "Raporla"
