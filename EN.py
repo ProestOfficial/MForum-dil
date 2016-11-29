@@ -66,7 +66,7 @@ N["$Reason"] = "Reason"
 N["$Moderated"] = '<span class="cadre-message-modere-texte">[{0} tarafından müdahale edildi, sebep : {1}]</span>'
 N["$Login"] = "Log in"
 N["$Log out"] = "Log out"
-N["$UName"] = "Login"
+N["$UName"] = "Nickname"
 N["$Password"] = "Password"
 N["$Upload_Avatar"] = "Upload avatar"
 N["$Preview"] = "Preview"
