@@ -102,3 +102,5 @@ N["$My friends"] = "My friends"
 N["$Blacklist"] = "Blacklist"
 
 N["$Report"] = "Report"
+N["$Are you sure"] = "Are you sure?"
+N["$Confirmation"] = "Confirmation"

@@ -75,6 +75,7 @@ N["$Cancel"] = "İptal"
 N["$Reason"] = "Sebep"
 N["$New message"] = "Yeni mesaj"
 N["$New topic"] = "Yeni konu"
+N["$Source"] = "Kaynak"
 
 #Micepix
 N["$Link to this page"] = "Sayfa bağlantısı"
@@ -93,3 +94,5 @@ N["$My friends"] = "Arkadaşlarım"
 N["$Blacklist"] = "Engellenenler"
 
 N["$Report"] = "Raporla"
+N["$Are you sure"] = "Emin misiniz?"
+N["$Confirmation"] = "Onay"
