@@ -95,3 +95,7 @@ N["$Profiles"] = "Profilok"
 N["$Inbox"] = "Üzenetek"
 N["$My friends"] = "Barátaim"
 N["$Blacklist"] = "Fekete lista"
+
+N["$Report"] = "Jelentés"
+N["$Are you sure"] = "Biztos vagy benne?"
+N["$Confirmation"] = "Megerősítés"
