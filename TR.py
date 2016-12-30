@@ -76,6 +76,7 @@ N["$Reason"] = "Sebep"
 N["$New message"] = "Yeni mesaj"
 N["$New topic"] = "Yeni konu"
 N["$Source"] = "Kaynak"
+N["$Send message"] = "İleti at"
 
 #Micepix
 N["$Link to this page"] = "Sayfa bağlantısı"
