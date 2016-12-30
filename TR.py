@@ -76,7 +76,7 @@ N["$Reason"] = "Sebep"
 N["$New message"] = "Yeni mesaj"
 N["$New topic"] = "Yeni konu"
 N["$Source"] = "Kaynak"
-N["$Send message"] = "İleti at"
+N["$Send message"] = "İleti yolla"
 
 #Micepix
 N["$Link to this page"] = "Sayfa bağlantısı"
@@ -97,3 +97,6 @@ N["$Blacklist"] = "Engellenenler"
 N["$Report"] = "Raporla"
 N["$Are you sure"] = "Emin misiniz?"
 N["$Confirmation"] = "Onay"
+
+N["$New discussion"] = "Yeni tartışma"
+N["$Select all"] = "Hepsini seç"
