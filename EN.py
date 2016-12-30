@@ -105,3 +105,5 @@ N["$Confirmation"] = "Confirmation"
 
 N["$New discussion"] = "New discussion"
 N["$Select all"] = "Select all"
+N["$Delete"] = "Delete"
+N["$Unselect all"] = "$Unselect all"

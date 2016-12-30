@@ -99,4 +99,6 @@ N["$Are you sure"] = "Emin misiniz?"
 N["$Confirmation"] = "Onay"
 
 N["$New discussion"] = "Yeni tartışma"
-N["$Select all"] = "Hepsini seç"
+N["$Select all"] = "Tümünü seç"
+N["$Delete"] = "Sil"
+N["$Unselect all"] = "Tümünün seçimini kaldır"
