@@ -24,6 +24,7 @@ $arr = array(
 		'Modules' => 'Modules',
 		'Tribes' => 'Tribus',
 		'Forum Games' => 'Juegos del Foro'
+		'Suggestions' => 'Sugerencias'
 	) ,
 	'tr-TR' => array(
 		'English' => 'İngilizce',
