@@ -24,7 +24,6 @@ $arr = array(
 		'Modules' => 'Modules',
 		'Tribes' => 'Tribus',
 		'Forum Games' => 'Juegos del Foro',
-		'Czech'=>'Checa',
 		'Suggestions' => 'Sugerencias'
 	) ,
 	'tr-TR' => array(
@@ -40,6 +39,7 @@ $arr = array(
 		'Polish' => 'Lehçe',
 		'Hungarian' => 'Macarca',
 		'Romanian' => 'Romence',
+		'Czech' => 'Çekce',
 		'Arabic' => 'Arapça',
 		'Russian' => 'Rusça',
 		'Filipino' => 'Filipince',
@@ -49,7 +49,6 @@ $arr = array(
 		'Modules' => 'Modüller',
 		'Tribes' => 'Kabileler',
 		'Forum Games' => 'Forum Oyunları',
-		'Czech' => 'Çekce',
 		'Suggestions' => 'Öneriler'
 	)
 );
