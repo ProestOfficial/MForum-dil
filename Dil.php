@@ -23,7 +23,8 @@ $arr = array(
 		'Off Topic' => 'Off Topic',
 		'Modules' => 'Modules',
 		'Tribes' => 'Tribus',
-		'Forum Games' => 'Juegos del Foro'
+		'Forum Games' => 'Juegos del Foro',
+		'Czech'=>'Checa',
 		'Suggestions' => 'Sugerencias'
 	) ,
 	'tr-TR' => array(
@@ -48,6 +49,7 @@ $arr = array(
 		'Modules' => 'Modüller',
 		'Tribes' => 'Kabileler',
 		'Forum Games' => 'Forum Oyunları',
-		'Czech' => 'Çekce'
+		'Czech' => 'Çekce',
+		'Suggestions' => 'Öneriler'
 	)
 );
