@@ -24,7 +24,7 @@ $arr = array(
 		'Modules' => 'Modules',
 		'Tribes' => 'Tribus',
 		'Forum Games' => 'Juegos del Foro',
-		'Suggestions' => 'Sugerencias'
+		'Suggestions' => 'Sugerencias',
 	) ,
 	'tr-TR' => array(
 		'English' => 'İngilizce',
@@ -49,7 +49,8 @@ $arr = array(
 		'Tribes' => 'Kabileler',
 		'Forum Games' => 'Forum Oyunları',
 		'Czech' => 'Çekce',
-		'Suggestions' => 'Öneriler'
+		'Suggestions' => 'Öneriler',
+		'Council'=>'Kurultay',
 	) ,
 	'pl-PL' => array(
 		'English' => 'Angielski',
