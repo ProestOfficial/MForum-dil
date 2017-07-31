@@ -75,6 +75,7 @@ $arr = array(
 		'Czech' => 'Çekce',
 		'Suggestions' => 'Öneriler',
 		'Council' => 'Kurultay',
+		'Archives' => 'Arşiv',
 	) ,
 	'pl-PL' => array(
 		'English' => 'Angielski',
@@ -98,6 +99,7 @@ $arr = array(
 		'Modules' => 'Moduły',
 		'Tribes' => 'Plemiona',
 		'Forum Games' => 'Gry Forumowe',
-		'Czech' => 'Czeski'
+		'Czech' => 'Czeski',
+		'Archives' => 'Archiwum'
 	)
 );
