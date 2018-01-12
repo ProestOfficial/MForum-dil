@@ -101,5 +101,32 @@ $arr = array(
 		'Forum Games' => 'Gry Forumowe',
 		'Czech' => 'Czeski',
 		'Archives' => 'Archiwum'
+	),
+	'hu-HU' => array(
+		'English' => 'Angol',
+		'Communities' => 'Közösségek',
+		'International' => 'Nemzetközi',
+		'Announcements' => 'Bejelentések',
+		'Map Submissions' => 'Pálya beadások',
+		'French' => 'Francia',
+		'Brazilian' => 'Brazi',
+		'Spanish' => 'Spanyol',
+		'Turkish' => 'Török',
+		'Polish' => 'Lengyel',
+		'Hungarian' => 'Magyar',
+		'Romanian' => 'Román',
+		'Arabic' => 'Arab',
+		'Russian' => 'Orosz',
+		'Filipino' => 'Fülöp-szigetek',
+		'Forums' => 'Fórumok',
+		'Discussions' => 'Megbeszélések',
+		'Off Topic' => 'Off Topic',
+		'Modules' => 'Modul',
+		'Tribes' => 'Törzs',
+		'Forum Games' => 'Fórum játékok',
+		'Czech' => 'Cseh'
+		'Suggestions' => 'Ötletek',
+		'Council' => 'Tanács',
+		'Archives' => 'Archíumok',
 	)
 );
